@@ -1,0 +1,6 @@
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\bin\Debug\Bestaurants.dll
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\bin\Debug\Bestaurants.pdb
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\bin\Debug\Bestaurants.tlb
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\obj\Debug\Bestaurants.csprojResolveAssemblyReference.cache
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\obj\Debug\Bestaurants.dll
+C:\Projects_Siyu\Tryouts\IGeometry\Bestaurants\Bestaurants\Bestaurants\obj\Debug\Bestaurants.pdb
